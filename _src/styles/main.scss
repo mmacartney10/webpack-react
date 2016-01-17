@@ -1,0 +1,13 @@
+.btn {
+	background-color: #000;
+	color: #FFF;
+	display: inline-block;
+	padding: 20px 10px;
+	border: 1px solid #FFF;
+}
+
+.btn:hover {
+	background-color: #FFF;
+	color: #000;
+	border: 1px solid #000;    		
+}
